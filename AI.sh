@@ -1,5 +1,5 @@
 #!/bin/bash
-下周如厕出去
+
 num_of_para=8
 opt[1]="anamgr-edm"
 opt[2]="anamgr-deposit-tt"
